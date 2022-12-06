@@ -42,7 +42,7 @@ List of Data Warehouse KPI's:
 This project's Dimensional Model consists of 1 Fact and 5 Dimensions.
 
 Use correct file path here to show picture of dimensional model...
-![Alt text](/img/dimensional_model.JPG)
+![NYC Motor Vehicle Collisions Dimensional Model](images/CIS 9440 Team Project Dimensional Model - v3.jpg)
 
 This project's Kimball Bus Matrix:
 
