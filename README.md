@@ -41,14 +41,14 @@ List of Data Warehouse KPI's:
 
 This project's Dimensional Model consists of 1 Fact and 5 Dimensions.
 
-![NYC Motor Vehicle Collisions Dimensional Model](/images/CIS 9440 Team Project Dimensional Model - v3.jpg)
+![NYC Motor Vehicle Collisions Dimensional Model](img/CIS9440_Group_Project_Dimensional_Model.jpg)
 
 This project's Kimball Bus Matrix:
 
-### Business Intelligence Design and Development
-
 Use correct file path here to show picture of dimensional model...
 ![Alt text](/img/kimball_bus_matrix.JPG)
+
+### Business Intelligence Design and Development
 
 List of Visualizations for each KPI:
 1. We chose to represent the total number of pedestrians affected by a collision through a line chart because this was a time-series analysis. We wanted to show which years had an increase or decrease of pedestrians affected. We also added a table to give the readers hard numbers to look at, paired with a map showing where pedestrians were injured in NYC to analyze the data geographically. This will give insight as to where pedestrians are most likely to be injured. 
