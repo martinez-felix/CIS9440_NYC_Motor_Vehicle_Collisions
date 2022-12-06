@@ -1,5 +1,5 @@
 # New York City Motor Vehicle Collision Data Warehouse
-- author(s): Megan Lam, Felix Martinez, Parth Shah
+- authors: Megan Lam, Felix Martinez, Parth Shah
 - date created: 11/29/2022
 - class: CIS 9440
 
@@ -36,7 +36,6 @@ List of Data Warehouse KPI's:
 3. Collisions by vehicle type
 4. Collisions by contributing factor
 5. Collisions by time of day 
-
 
 ### Dimensional Model
 
