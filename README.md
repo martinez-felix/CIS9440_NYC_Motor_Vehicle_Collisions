@@ -46,7 +46,7 @@ This project's Dimensional Model consists of 1 Fact and 5 Dimensions.
 This project's Kimball Bus Matrix:
 
 Use correct file path here to show picture of dimensional model...
-![Alt text](/img/kimball_bus_matrix.JPG)
+![NYC Motor Vehicle Collisions Kimball Bus Matrix](img/CIS9440_Group_Project_Kimball_Bus_Matrix.png)
 
 ### Business Intelligence Design and Development
 
@@ -60,13 +60,15 @@ List of Visualizations for each KPI:
 
 BI Application Wireframe design:
 
-Use correct file path here to show picture of Wireframe design...
-![Alt text](/img/wireframe_design.JPG)
+![NYC Motor Vehicle Collisions BI Application Wireframe](img/CIS9440_Group_Project_Dashboard_Wireframe.png)
 
-Picture of final Dashboard:
+Pictures of final Dashboard:
 
-Use correct file path here to show picture of Dashboard...
-![Alt text](/img/Dashboard.JPG)  
+![Pedestrian Involvement](img/Pedestrian_Involvement.png)
+
+![Collisions by Borough](img/Collisions_by_Borough.png)
+
+![Collisions by Time of Day](img/Collisions_by_Time_of_Day.png)
 
 ### Deployment
 
