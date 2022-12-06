@@ -73,4 +73,4 @@ Pictures of final Dashboard:
 ### Deployment
 
 The project was deployed on Tableau Public: 
-https://public.tableau.com/app/profile/felix.martinez2775/viz/CIS9440-Group4-NYCMotorVehicleCollisionData/PedestrianInvo
+[NYC Motor Vehicale Collision Data Warehouse](https://public.tableau.com/app/profile/felix.martinez2775/viz/CIS9440-Group4-NYCMotorVehicleCollisionData/PedestrianInvolvement)
