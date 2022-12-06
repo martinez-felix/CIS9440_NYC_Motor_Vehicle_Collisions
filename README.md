@@ -23,7 +23,7 @@ Description of the issues or opportunities the project will address:
 New York City is a very densely populated place with half of the households owning a car. About 27% of 3.8 million workers commute to work via van, car, or truck. Some questions that come to light are: What are some of the main reasons for vehicular crashes in a populated city? How can New York City reduce collisions through legislation? How can New York City improve their public transportation to reduce car usage? To answer these questions, the New York City Vehicle Collision Data Warehouse will aggregate traffic volume, open streets program, collision, and bus lane data to discover insights regarding New York City motor vehicles collision.
 
 Project Business or Organization Value:
-The project aims to address the frequency of collisions in NYC. By analyzing these collisions, we can identify the key causes and hotspots of them. Then, we will be able to recommend strategies that will decrease the numbers of motor vehicle collisions, while increasing motor vehicle safety. 
+The project aims to address the frequency of collisions in NYC. By analyzing these collisions, we can identify the key causes and hotspots for them. We will then be able to recommend strategies that should help to decrease the numbers of motor vehicle collisions, while increasing motor vehicle safety. 
 
 Data Sources:
 1. https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
